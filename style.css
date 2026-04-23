@@ -155,7 +155,7 @@ body {
 
 .btn-brand:hover {
   box-shadow: 0 12px 24px rgba(28, 166, 166, 0.3);
-  color: var(--white);
+  color: var(--yellow);
 }
 
 .btn-outline-brand {
