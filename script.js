@@ -1,4 +1,4 @@
-// Shared JavaScript for all pages in the SafeNethra static website.
+// Shared JavaScript for all pages in the SafeNetra static website.
 // Students can edit the file later to add more interactivity if needed.
 
 document.addEventListener("DOMContentLoaded", () => {
